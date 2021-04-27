@@ -1,0 +1,20 @@
+{
+    "name": "fjcobi/thephpcc-patterns",
+    "type": "project",
+    "description": "Work done on the thePHP.cc patterns workshop",
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "Felix Jaocbi",
+            "email": "felix@jacobi-hamburg.net"
+        }
+    ],
+    "require": {
+        "php": "^7.4"
+    },
+    "autoload": {
+        "psr-0": {
+            "FJcobi\\ThePhpCCPatterns": "src"
+        }
+    }
+}
