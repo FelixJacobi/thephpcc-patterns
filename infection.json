@@ -1,0 +1,14 @@
+{
+    "source": {
+        "directories": [
+            "src"
+        ],
+        "excludes": [
+            "ServiceLocator.php",
+            "Strategy\/Command\/NumbersCommand.php"
+        ]
+    },
+    "mutators": {
+        "@default": true
+    }
+}

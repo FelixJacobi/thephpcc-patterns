@@ -1,0 +1,10 @@
+#!/usr/bin/php
+<?php
+
+declare(strict_types=1);
+
+use FJcobi\ThePhpCCPatterns\ServiceLocator;
+
+require dirname(__DIR__) . '/vendor/autoload.php';
+
+(new ServiceLocator())->consoleApplication()->run();
