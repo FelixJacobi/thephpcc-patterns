@@ -5,7 +5,6 @@ declare(strict_types=1);
 namespace FJcobi\ThePhpCCPatterns\Tests\Strategy\Picker;
 
 use FJcobi\ThePhpCCPatterns\Strategy\Picker\FiveEvenNumbersPicker;
-use FJcobi\ThePhpCCPatterns\Strategy\Picker\FiveRandomNumbersPicker;
 use PHPUnit\Framework\TestCase;
 
 /**
